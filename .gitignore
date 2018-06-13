@@ -1,0 +1,11 @@
+.classpath
+.project
+nb-configuration.xml
+*.class
+*.jar
+*.ear
+target
+.settings
+nbproject
+/.idea
+*.iml
